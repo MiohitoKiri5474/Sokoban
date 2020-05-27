@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/boxes.png</file>
+        <file>images/bricks.png</file>
+        <file>images/ground.png</file>
+        <file>images/none.png</file>
+        <file>images/player.png</file>
+        <file>datas/level_1.dat</file>
+        <file>datas/level_2.dat</file>
+        <file>images/indexes.png</file>
+        <file>datas/level_3.dat</file>
+        <file>datas/level_4.dat</file>
+    </qresource>
+</RCC>
