@@ -1,4 +1,4 @@
-# 2020-pd2-sokoban
+# Sokoban
 ## Video link
 
 https://youtu.be/XxAwqpTNUVs
@@ -12,5 +12,3 @@ Use WASD to move, push boxes into gray squares.
 1. Main Menu
 2. The Number of Steps
 3. Saved Game
-
-## Bonus
